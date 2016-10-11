@@ -3,9 +3,9 @@ package automation;
 public class Constants {
 	public static final String URL = "https://github.com/";
 	 
-    public static final String Username = "Keisakyu@gmail.com";
+    public static final String Username = "K.eisakyu@gmail.com";
     public static final String UsernameFail = "emailFail@gmail.com";
-    public static final String Password = "decaskate8";
+    public static final String Password = "automationtest8";
     public static final String PasswordFail = "passwordFail";
     public static final String Blank = "";
     
